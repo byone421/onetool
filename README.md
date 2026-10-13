@@ -15,7 +15,6 @@
 - **专注**：番茄钟
 - **视频**：YouTube 视频下载
 
-加密工具在前端使用 Web Crypto API 和 `sm-crypto`，不依赖 Electron 的 `window.toolsApi`。窗口启动背景色和应用图标已配置在 Tauri 设置中。
 
 ## 环境要求
 
